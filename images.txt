@@ -1,5 +1,5 @@
 #镜像名称
-wojiushixiaobai/gmssl_nginx:v1.24.0@sha256:f3bb06a031fbd56c934715352bef2181aa5e2526ab6b701cf08c354b694c0127
+alpine:3.14
 
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
