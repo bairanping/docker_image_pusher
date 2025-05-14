@@ -6,4 +6,6 @@
 #xhofe/alist:latest
 
 #支持指定架构
---platform=linux/arm64 zengxiangbang/gmssl_nginx:1.25.3_gmssl_2.5.4
+#--platform=linux/arm64 mysql:8.4.2
+--platform=linux/amd64 mysql:8.4.2
+
