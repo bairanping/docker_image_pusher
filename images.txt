@@ -7,5 +7,5 @@
 
 #支持指定架构
 #--platform=linux/arm64 mysql:8.4.2
---platform=linux/amd64 apache/rocketmq:5.1.0
+--platform=linux/amd64 nacos/nacos-server:v2.3.0
 
