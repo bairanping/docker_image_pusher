@@ -7,4 +7,4 @@
 
 #支持指定架构
 #--platform=linux/arm64 mysql:8.4.2
---platform=linux/amd64 apacherocketmq/rocketmq-dashboard:2.0.1
+--platform=linux/amd64 apache/rocketmq:5.1.0
