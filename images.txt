@@ -8,5 +8,5 @@ registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 
 #支持指定架构
 #--platform=linux/arm64 mysql:8.4.2
---platform=linux/amd64 langgenius/dify-web:latest
+--platform=linux/amd64 infiniflow/infinity:v0.6.0-dev3
 
