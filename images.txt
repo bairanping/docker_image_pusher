@@ -8,4 +8,4 @@
 
 #支持指定架构
 #--platform=linux/arm64 mysql:8.0.39
---platform=linux/amd64 kiwigrid/k8s-sidecar:1.30.3
+--platform=linux/amd64 jenkins/inbound-agent:jdk17
