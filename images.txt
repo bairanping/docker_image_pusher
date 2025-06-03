@@ -8,4 +8,4 @@
 
 #支持指定架构
 #--platform=linux/arm64 mysql:8.0.39
---platform=linux/amd64 easzlab/nfs-subdir-external-provisioner:v4.0.2
+--platform=linux/amd64 jenkins/jenkins:2.504.2-jdk21
