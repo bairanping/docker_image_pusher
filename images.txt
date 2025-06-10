@@ -8,4 +8,4 @@
 
 #支持指定架构
 #--platform=linux/arm64 mysql:8.0.39
---platform=linux/amd64 node:18.20.2-alpine
+--platform=linux/amd64 filebrowser/filebrowser:v2-s6
