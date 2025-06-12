@@ -8,5 +8,5 @@
 
 #支持指定架构 
 #--platform=linux/arm64 mysql:8.0.39
---platform=linux/amd64 benxianyu/sun-panel:latest
+--platform=linux/amd64 vkanjilal/oracle10g:latest
 
