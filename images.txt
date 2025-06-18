@@ -8,5 +8,5 @@
 
 #支持指定架构 
 #--platform=linux/arm64 mysql:8.0.39
---platform=linux/amd64 yycx/oracle11:11.2.0.4
+--platform=linux/amd64 goharbor/prepare:v2.13.1
 
