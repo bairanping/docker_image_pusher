@@ -8,5 +8,5 @@
 
 #支持指定架构 
 #--platform=linux/arm64 mysql:8.0.39
---platform=linux/amd64 grafana/promtail:k260-d21fb10
+--platform=linux/amd64 grafana/loki:3.4.1
 
