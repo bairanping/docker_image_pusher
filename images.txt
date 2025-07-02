@@ -8,4 +8,4 @@
 
 #支持指定架构 
 #--platform=linux/arm64 mysql:8.0.39
---platform=linux/amd64 portainer/portainer:1.25.0
+--platform=linux/amd64 portainer/portainer-ce:2.27.9-alpine
