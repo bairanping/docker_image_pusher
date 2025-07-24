@@ -8,4 +8,4 @@
 
 #支持指定架构 
 #--platform=linux/arm64 mysql:8.0.39
---platform=linux/amd64 grafana/loki:2.6.1
+--platform=linux/amd64 apache/skywalking-oap-server:10.2.0-java17
