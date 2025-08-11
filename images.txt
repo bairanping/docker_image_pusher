@@ -8,4 +8,4 @@
 
 #支持指定架构 
 #--platform=linux/arm64 mysql:8.0.39
---platform=linux/amd64 moby/buildkit:buildx-stable-1
+--platform=linux/amd64 bitnami/mongodb:8.0.10
