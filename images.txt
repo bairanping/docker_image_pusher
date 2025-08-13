@@ -8,4 +8,4 @@
 
 #支持指定架构 
 #--platform=linux/arm64 mysql:8.0.39
---platform=linux/amd64 eclipse-temurin:8-jre-alpine
+--platform=linux/amd64 mongodb/mongodb-community-server:5.0.31-ubi8-20250705T073811Z
