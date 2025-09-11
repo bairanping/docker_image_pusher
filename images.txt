@@ -8,4 +8,4 @@
 
 #支持指定架构 
 #--platform=linux/arm64 mysql:8.0.39
---platform=linux/amd64 ubuntu:22.04
+--platform=linux/amd64 emqx/emqx:5.8.8
