@@ -8,4 +8,4 @@
 
 #支持指定架构 
 #--platform=linux/arm64 mysql:8.0.39
---platform=linux/amd64 bitnami/etcd:3.5
+--platform=linux/amd64 milvusdb/milvus:v2.5.10
