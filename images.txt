@@ -8,4 +8,4 @@
 
 #支持指定架构 
 #--platform=linux/arm64 mysql:8.0.39
---platform=linux/amd64 cozedev/coze-studio-server:0.3.16
+--platform=linux/amd64 cozedev/coze-studio-web:0.3.0
