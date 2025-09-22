@@ -8,4 +8,4 @@
 
 #支持指定架构 
 #--platform=linux/arm64 mysql:8.0.39
---platform=linux/amd64 bitnami/elasticsearch:8.18.0
+--platform=linux/amd64 minio/minio:RELEASE.2025-06-13T11-33-47Z-cpuv1
