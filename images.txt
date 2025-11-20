@@ -8,4 +8,4 @@
 
 #支持指定架构 
 #--platform=linux/arm64 nginx:1.28.0
---platform=zlmediakit/zlmediakit:master
+--platform=linux/amd64 zlmediakit/zlmediakit:master
