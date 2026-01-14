@@ -8,4 +8,4 @@
 
 #支持指定架构 
 #--platform=linux/arm64 nginx:1.28.0
---platform=linux/amd64 lucaslorentz/caddy-docker-proxy:2.9-alpine
+--platform=linux/amd64 seafileltd/sdoc-server:2.0-latest
