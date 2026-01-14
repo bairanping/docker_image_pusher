@@ -8,4 +8,4 @@
 
 #支持指定架构 
 #--platform=linux/arm64 nginx:1.28.0
---platform=linux/amd64 mongo:8.0.10
+--platform=linux/amd64 seafileltd/seafile-mc:13.0-latest
