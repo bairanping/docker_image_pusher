@@ -8,4 +8,16 @@
 
 #支持指定架构 
 #--platform=linux/arm64 nginx:1.28.0
---platform=linux/amd64 onlyoffice/documentserver:9.2
+--platform=linux/amd64 supabase/studio:2026.01.27-sha-6aa59ff
+--platform=linux/amd64 kong:2.8.1
+--platform=linux/amd64 supabase/gotrue:v2.185.0
+--platform=linux/amd64 postgrest/postgrest:v14.3
+--platform=linux/amd64 supabase/realtime:v2.72.0
+--platform=linux/amd64 supabase/storage-api:v1.37.1
+--platform=linux/amd64 darthsim/imgproxy:v3.30.1
+--platform=linux/amd64 supabase/postgres-meta:v0.95.2
+--platform=linux/amd64 supabase/edge-runtime:v1.70.0
+--platform=linux/amd64 supabase/logflare:1.30.3
+--platform=linux/amd64 supabase/postgres:15.8.1.085
+--platform=linux/amd64 timberio/vector:0.28.1-alpine
+--platform=linux/amd64 supabase/supavisor:2.7.4
