@@ -8,5 +8,4 @@
 
 #支持指定架构 
 #--platform=linux/amd64 postgres:15-alpine
---platform=linux/arm64 apache/rocketmq:5.4.0
---platform=linux/arm64 apecloud/rocketmq-dashboard:2.0.1
+--platform=linux/arm64 eclipse-temurin:17-jre
