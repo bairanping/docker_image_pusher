@@ -10,4 +10,4 @@
 #--platform=linux/amd64 postgres:15-alpine
 --platform=linux/arm64 redis:7.0.11
 --platform=linux/arm64 mysql:8.4.2
---platform=linux/arm64 nacos-server:v2.3.0-slim
+--platform=linux/arm64 nacos/nacos-server:v2.3.0-slim
