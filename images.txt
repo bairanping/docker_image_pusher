@@ -8,4 +8,4 @@
 
 #支持指定架构 
 #--platform=linux/amd64 postgres:15-alpine
---platform=linux/arm64 apache/seata-server:2.2.0
+--platform=linux/arm64 apache/rocketmq:5.3.4
