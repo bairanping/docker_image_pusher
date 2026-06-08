@@ -7,5 +7,5 @@
 #registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 
 #支持指定架构 
-#--platform=linux/amd64 postgres:15-alpine
---platform=linux/arm64 apache/rocketmq:5.3.4
+--platform=linux/amd64 nginx:1.31.1
+#--platform=linux/arm64 apache/rocketmq:5.3.4
