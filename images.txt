@@ -7,15 +7,5 @@
 #registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 
 #支持指定架构 
---platform=linux/amd64 postgres:15-alpine
---platform=linux/amd64 supabase/gotrue:v2.189.0
---platform=linux/amd64 postgrest/postgrest:v14.12
---platform=linux/amd64 supabase/realtime:v2.102.3
---platform=linux/amd64 supabase/storage-api:v1.60.4
---platform=linux/amd64 supabase/studio:2026.07.07-sha-a6a04f2
---platform=linux/amd64 kong:3.9.1
---platform=linux/amd64 supabase/postgres-meta:v0.96.6
---platform=linux/amd64 supabase/edge-runtime:v1.74.0
---platform=linux/amd64 supabase/logflare:1.43.1
---platform=linux/amd64 timberio/vector:0.53.0-alpine
+--platform=linux/amd64 postgres:17-alpine
 #--platform=linux/arm64 apache/rocketmq:5.3.4
