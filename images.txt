@@ -7,5 +7,5 @@
 #registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 
 #支持指定架构 
---platform=linux/amd64 apache/kafka:4.1.2
+--platform=linux/amd64 apache/kafka:4.3.1
 #--platform=linux/arm64 apache/rocketmq:5.3.4
