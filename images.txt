@@ -7,5 +7,5 @@
 #registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 
 #支持指定架构 
---platform=linux/amd64 nacos/nacos-server:v3.0.1
+--platform=linux/amd64 eclipse-temurin:25.0.4_7-jre
 #--platform=linux/arm64 apache/rocketmq:5.3.4
