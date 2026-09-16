@@ -8,4 +8,4 @@
 
 #支持指定架构 
 #--platform=linux/amd64 nginx:1.30.4
---platform=linux/arm64 apacherocketmq/rocketmq-dashboard:2.1.0
+--platform=linux/arm64 apache/seata-server:2.1.0
